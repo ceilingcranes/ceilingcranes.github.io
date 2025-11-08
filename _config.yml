@@ -1,0 +1,21 @@
+# Site settings
+title: Artist Gallery
+description: A portfolio gallery for showcasing artwork
+baseurl: ""
+url: "https://ceilingcranes.github.io"
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+# Collections for organizing galleries
+collections:
+  galleries:
+    output: true
+    permalink: /gallery/:name/
+
+# Exclude files from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
