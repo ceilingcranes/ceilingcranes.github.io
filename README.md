@@ -1,6 +1,15 @@
 # Artist Gallery Website
 
-A Jekyll-based gallery website for displaying artwork, optimized for GitHub Pages. Created using Claude AI.
+A Jekyll-based gallery website for displaying artwork, optimized for GitHub Pages.
+
+## Copyright & Licensing
+
+**⚠️ IMPORTANT:** This repository uses dual licensing:
+
+- **Code (HTML, CSS, JS, Jekyll templates):** MIT License - See [LICENSE](LICENSE)
+- **Artwork (all images in `/images`):** All Rights Reserved - See [LICENSE-ARTWORK.md](LICENSE-ARTWORK.md)
+
+The artwork displayed on this site is protected by copyright and may not be used, reproduced, or distributed without permission.
 
 ## Setup
 
