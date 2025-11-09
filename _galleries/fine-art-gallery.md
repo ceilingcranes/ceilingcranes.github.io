@@ -22,7 +22,7 @@ images:
   - url: /images/jack_and_nika.jpg
     title: Jack and Nika
   - url: /images/the_angel.jpg
-    title: The Angel
+    title: "The Angel, or: Europa Clipper in Vacuum" 
   - url: /images/astronaut.jpg
     title: Astronaut
   - url: /images/imap_taking_flight.jpg

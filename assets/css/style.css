@@ -65,14 +65,20 @@ main {
   gap: 2.5rem;
 }
 
+.gallery-preview-link {
+  text-decoration: none;
+  display: block;
+}
+
 .gallery-preview {
   background: white;
   padding: 2.5rem;
   border: 1px solid #e8e8e6;
   transition: border-color 0.3s ease;
+  cursor: pointer;
 }
 
-.gallery-preview:hover {
+.gallery-preview-link:hover .gallery-preview {
   border-color: #c0c0be;
 }
 
@@ -81,15 +87,11 @@ main {
   font-size: 1.6rem;
   font-weight: 300;
   letter-spacing: 0.03em;
-}
-
-.gallery-preview h2 a {
   color: #1a1a1a;
-  text-decoration: none;
   transition: opacity 0.3s ease;
 }
 
-.gallery-preview h2 a:hover {
+.gallery-preview-link:hover .gallery-preview h2 {
   opacity: 0.6;
 }
 
@@ -122,14 +124,10 @@ main {
   margin-bottom: 0.5rem;
 }
 
-.contact-email {
-  margin-top: 1.5rem;
-}
-
 .contact-email a {
   color: #1a1a1a;
   text-decoration: none;
-  font-size: 1.1rem;
+  font-size: 1rem;
   letter-spacing: 0.02em;
   border-bottom: 1px solid #e8e8e6;
   padding-bottom: 2px;

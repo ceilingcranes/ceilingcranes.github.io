@@ -1,8 +1,8 @@
 # Site settings
-title: Artist Gallery
-description: A portfolio gallery for showcasing artwork
+title: Maxine's Gallery
+description: ""
 baseurl: ""
-url: "https://ceilingcranes.github.io"
+url: "https://maxinehartnett.com"
 
 # Build settings
 markdown: kramdown
