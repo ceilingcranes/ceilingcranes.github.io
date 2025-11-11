@@ -41,7 +41,7 @@ images:
     title: Japanese Torii
   - url: /images/plein_air/japanese_torii_2.png
     title: Japanese Torii 2
-  - url: /images/plein_air/washington_dc.jpg
+  - url: /images/plein_air/washington_dc.png
     title: Washington DC
   - url: /images/plein_air/louisville_art_association.jpg
     title: Louisville Art Association
