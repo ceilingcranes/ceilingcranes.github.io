@@ -3,6 +3,8 @@ layout: gallery
 title: Fine Art Gallery
 description: This is a collection of my larger fine art pieces. For additional information, please contact me at maxinehartnett@gmail.com.
 images:
+  - url: /images/steamboat-small.png
+    title: North St Pat's at Steamboat Springs
   - url: /images/vail_colorado.jpg
     title: Vail Mountains From Gondola
   - url: /images/hallet_peak_sunrise.jpg
