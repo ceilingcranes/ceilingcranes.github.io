@@ -7,8 +7,14 @@ images:
     title: The Vanished Glacier
   - url: /images/steamboat-small.png
     title: North St Pat's at Steamboat Springs
+  - url: /images/goes_19.jpg
+    title: GOES-19
   - url: /images/vail_colorado.jpg
     title: Vail Mountains From Gondola
+  - url: /images/jack_and_nika.jpg
+    title: Jack and Nika
+  - url: /images/the_angel.jpg
+    title: "The Angel, or: Europa Clipper in Vacuum" 
   - url: /images/hallet_peak_sunrise.jpg
     title: Hallet Peak Sunrise
   - url: /images/storm_peak_sunrise.jpg
@@ -25,14 +31,12 @@ images:
     title: Nuthatch in Autumn
   - url: /images/rt_hawk.jpg
     title: Red-tailed Hawk
-  - url: /images/jack_and_nika.jpg
-    title: Jack and Nika
-  - url: /images/the_angel.jpg
-    title: "The Angel, or: Europa Clipper in Vacuum" 
   - url: /images/astronaut.jpg
     title: Astronaut
   - url: /images/imap_taking_flight.jpg
     title: IMAP Taking Flight
-  - url: /images/goes_19.jpg
-    title: GOES-19
+  - url: /images/eye-contact-2.jpg
+    title: Eye contact with a neighbor
+  - url: /images/bluebird_day.jpg
+    title: Bluebird day
 ---
