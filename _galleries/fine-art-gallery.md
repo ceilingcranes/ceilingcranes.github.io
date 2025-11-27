@@ -21,6 +21,8 @@ images:
     title: Sugar Maple Snow
   - url: /images/perching_robin.jpg
     title: Perching Robin
+  - url: /images/perching_nuthatch.jpg
+    title: Nuthatch in Autumn
   - url: /images/rt_hawk.jpg
     title: Red-tailed Hawk
   - url: /images/jack_and_nika.jpg
